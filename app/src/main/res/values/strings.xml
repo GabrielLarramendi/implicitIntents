@@ -2,11 +2,11 @@
     <string name="app_name">implicitIntents</string>
     
     <string-array name="intent_actions">
-        <item>Browser</item>
-        <item>Realizando uma chamada</item>
+        <item>Browser (OK)</item>
+        <item>Realizando uma chamada (OK)</item>
         <item>Mapa</item>
-        <item>SMS</item>
-        <item>Compartilhar</item>
+        <item>SMS (OK)</item>
+        <item>Compartilhar (OK)</item>
         <item>Alarme</item>
         <item>Buscar na Web</item>
         <item>Configurações</item>
